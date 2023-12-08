@@ -1,3 +1,3 @@
-# my-second-project
+Minimo-project
 live link
 https://mdolyullah.github.io/my-second-project/
